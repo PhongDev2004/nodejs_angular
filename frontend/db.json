@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "name": "portrait from photo to shirt, outline photo sweatshirt, Custom Photo, custom portrait, Couple Hoodie",
+      "brand": "Nedd™",
+      "price": 67,
+      "stock": 100,
+      "thumbnail": "https://i.ibb.co/BP3mBcr/thumb.jpg",
+      "description": "Set-in sleeve 1x1 rib at neck collar Inside back neck tape in self fabric Tubular construction Sleeve hem and bottom hem with wide double topstitch Comfortable crew neckline",
+      "id": "12"
+    },
+    {
+      "id": 13,
+      "name": "Japanese Harajuku Style Hoodies, Streetwear Oversized Hoodie, Thick Winter Autumn Pullover",
+      "price": 667,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Recommend ordering two sizes up. MATERIAL: Cotton, PolyesterIt is printed with eco-friendly ink. Soft and comfy hoodie with a print of Japanese graphic art. This kawaii clothing pullover is an excellent addition to your wardrobe.",
+      "thumbnail": "https://i.ibb.co/2vcg5K8/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Unleash Your Summer Swag with High-Quality Fear Of God Shorts for Men and Women",
+      "price": 63,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Upgrade your summer wardrobe with our exclusive collection of Essentials Shorts for both men and women! Discover the perfect blend of comfort and style with our high-quality Fear Of God shorts, designed to elevate your streetwear game to new heights. Whether you're hitting the beach or strolling through the city, these trendy FOG shorts are a must-have for any fashion-conscious individual. Embrace the essence of urban fashion and make a bold statement this summer with our eye-catching streetwear essentials. Get ready to turn heads and exude confidence wherever you go!",
+      "thumbnail": "https://i.ibb.co/zP4YWYs/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Supper Comfy Yoga Shorts",
+      "price": 457,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "This patchwork was made to look , handmade with different patterns. It comes with cute tassels and has a comfortable elastic waist and ankle. These are made perfect for a relaxing day at home, working out, yoga. Made with soft rayon fabric.",
+      "thumbnail": "https://i.ibb.co/ZVXRFk6/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Branded Premium Basic Mesh Shorts",
+      "price": 235,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Branded Premium Basic Mesh Shorts / Mesh 2 Pockets / Eric Emanuel New York City Skyline Basketball shorts",
+      "thumbnail": "https://i.ibb.co/wdPQcz6/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Elastic Waist Cotton Pants Soft Casual Loose Boho Trousers",
+      "price": 934,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Please contact us if you have any questions. We are here to help with whatever we can .Finally, thank you very much for visiting my store, you can collect my stores and goods.",
+      "thumbnail": "https://i.ibb.co/PcdbsQf/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Wide Leg Suit High Waist Pants | Office Lady Loose Casual High Waist Pants",
+      "price": 29,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "A beautiful and charming Dresses made from breathable, soft and skin-friendly.This is one fashion item that can never go wrong.",
+      "thumbnail": "https://i.ibb.co/vYXmr8Z/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Fashion Cargo Shorts, Casual Vintage Low Rise Baggy Shorts",
+      "price": 124,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Y2k Fashion Cargo Shorts, Casual Vintage Low Rise Baggy Shorts For Woman, Gift For Her, Wife ,Daughter. Dear Shopping Lovers,We are proud to share our comfortable and stylish products with you.Our products are handmade, we design and manufacture our products specially for our customers.",
+      "thumbnail": "https://i.ibb.co/n7ZjWhW/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Linen Shorts Women Summer Elastic Shorts With Pockets Sweat Waist Solid Color Shorts",
+      "price": 56,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "The linen and cotton pieces are made to make you look good and natural, for any occasion. Due to its structure, linen and cotton fiber can be associated with any cloths. It will look great anyway. Linen is one of the most expensive and sought after of the plant-based fabrics and it is self-evident because of many good properties and qualities.",
+      "thumbnail": "https://i.ibb.co/KxVj2sh/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Embroidered Silly Goose Sweatshirt, Embroidered Goose Crewneck Sweats",
+      "price": 789,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "This embroidered Silly Goose sweatshirt is super soft and cozy. Perfect to lounge around, run errands, or walk your dog. Our crewnecks use the highest quality material for ultra-soft and comfortable wear, with advanced embroidery to ensure vibrant colors and detailed graphics.",
+      "thumbnail": "https://i.ibb.co/yPHVddx/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Knitted Sweater Little Dinosaur, Unisex, Winter Harajuku",
+      "price": 67,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Super soft comfortable knitted sweater. A perfect gift for streetwear style lovers and a perfect harajuku outfit.",
+      "thumbnail": "https://i.ibb.co/sFJvcv1/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Knitted Sweater Staring Duck, Unisex, Winter Harajuku",
+      "price": 56,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Please kindly note that color may vary slightly from monitor to print due to monitor settings.",
+      "thumbnail": "https://i.ibb.co/vj5H45t/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Fashion Sweaters Men Autumn Solid Color Wool Sweaters Slim Fit",
+      "price": 78,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Fashion Sweaters Men Autumn Solid Color Wool Sweaters Slim Fit Men Street Wear Mens Clothes Knitted Sweater Men Pullovers",
+      "thumbnail": "https://i.ibb.co/9pqChfy/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Cotton Corduroy Pant Elastic Waist Pants Womens Soft Warm trousers baggy pants Casual",
+      "price": 39,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "All our items are Tailored and Handmade and Made to Order ,I can make Any Size . I design new styles every week, please collect my store. I believe that you will meet your favorite styles.",
+      "thumbnail": "https://i.ibb.co/dJfrK9j/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "High Waist Trousers Pants Palazzo Bottoms Casual Loose Wide Leg Long Harem",
+      "price": 182,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Introducing our Women's High Waisted Linen Pants - perfect for any summer day! These pants bring comfort and style to your wardrobe, with a loose-fitting design that offers a relaxed yet fashionable look. Made from a cotton linen blend, these pants are lightweight and breathable, providing a comfortable feel all day long.",
+      "thumbnail": "https://i.ibb.co/Khd6pJy/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Drawstring Pants - Spring Summer Trousers - Pockets",
+      "price": 98,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Stay comfortable and stylish with these cotton and linen drawstring pants for women. Designed with a basic style and loose fit, these mid-waist trousers have a nine-point length and trendy button details. Plus, they come with pockets to keep your essentials handy. Available in light gray, white, dark gray,",
+      "thumbnail": "https://i.ibb.co/vY3cj4d/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Sunset Rays Wavy Shirt, Vintage Shirt, Retro Sunshine Shirt",
+      "price": 82,
+      "stock": 100,
+      "brand": "Nedd™",
+      "description": "Please check the color charts for the size and type of the tshirt you want, not every color is available for each type of tshirts, drop down comes automatically with every color but they are not available for each item so please make sure to check it, if you do not check the color charts the closest item will be sent to you.",
+      "thumbnail": "https://i.ibb.co/txQtZb4/thumb.jpg",
+      "category": "1",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "luongbaphong3332004@gmail.com",
+      "password": "$2a$10$iOxSrmByBa3XFRMaRZVde.RtGvxRkdefV.7gealPYyCswXjfvdqXi",
+      "username": "admin",
+      "address": "Hà Nội",
+      "telephone": 398748313,
+      "id": 1
+    },
+    {
+      "email": "luongbaphong20041@gmail.com",
+      "password": "$2a$10$C8jKRGJbTQF2kwEj7M..b.v6RrcWnebBsoYNrubo46r/fBrimeghC",
+      "username": "LBP",
+      "address": "Hà Nội",
+      "telephone": 398748313,
+      "id": 2
+    },
+    {
+      "email": "luongbaph2ong20041@gmail.com",
+      "password": "$2a$10$c3l1.8glRa3dJjDJpFjMCebGnNE/6bqJg1GAhN15S9EFkrAUEGQMq",
+      "username": "123",
+      "address": "123",
+      "telephone": 123,
+      "id": 3
+    },
+    {
+      "email": "luongbaphong200411@gmail.com",
+      "password": "$2a$10$6AxAr/nmY5a6D6FHrGOkqOoT2wErYNWRABLOO5f6NAE.v0Xc3VdSu",
+      "username": "234",
+      "address": "Hà Nội",
+      "telephone": 398748313,
+      "id": 4
+    }
+  ]
+}
